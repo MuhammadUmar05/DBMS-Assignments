@@ -19,6 +19,7 @@ This repository contains a collection of lab assignments completed as part of th
 | No. | Title          | Description                           |
 | --- | -------------- | ------------------------------------- |
 | 1   | `Assignment 1` | Basic SQL queries and schema creation |
+| 2   | `Assignment 2` | Aggregate Functions, Group By, Having |
 
 ---
 
